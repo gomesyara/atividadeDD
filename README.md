@@ -58,7 +58,7 @@ repositório por e-mail.
 ### Links de exemplos de guide-style
 
 <a href="https://www.behance.net/gallery/137879745/UI-Style-Guide-for-Mobile-and-Website-UIDesign?tracking_source=search_projects%7Cguide%20style%20app">
-UI Style Guide for Mobile and Website UI Design</a>
+UI Style Guide for Mobile and Website UI Design</a><br>
 
 
 <a href="https://www.behance.net/gallery/121324113/Design-System-andComponents?tracking_source=search_projects%7Cguide%20style%20app">
